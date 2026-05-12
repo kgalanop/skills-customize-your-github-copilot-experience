@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "introduction-to-algorithms",
+      "title": "Introduction to Algorithms",
+      "description": "Implement basic sorting and searching algorithms in Python.",
+      "path": "assignments/introduction-to-algorithms",
+      "dueDate": "2026-05-19",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
